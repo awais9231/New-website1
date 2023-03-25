@@ -68,7 +68,7 @@ nav {
 .c{
     border: 2px solid black;
     height: 460px;
-    width: 325px;
+    width: 290px !important;
     margin: 20px;
     padding: 9px;
 }
@@ -82,7 +82,7 @@ nav {
 .d{
     border: 2px solid black;
     height: 460px;
-    width: 325px;
+    width: 290px !important;
     margin: 20px;
     padding: 9px;
 }
@@ -97,7 +97,7 @@ nav {
 .e{
     border: 2px solid black;
     height: 460px;
-    width: 325px;
+    width: 290px !important;
     margin: 20px;
     padding: 9px;
 }
@@ -111,7 +111,7 @@ nav {
 .f{
     border: 2px solid black;
     height: 460px;
-    width: 325px;
+    width: 290px !important;
     margin: 20px;
     padding: 9px;
 }
@@ -126,7 +126,7 @@ nav {
 .op{
     border: 2px solid black;
     height: 460px;
-    width: 325px;
+    width: 290px !important;
     margin: 20px;
     padding: 9px;
 }
@@ -141,7 +141,7 @@ nav {
 .h{
     border: 2px solid black;
     height: 460px;
-    width: 325px;
+    width: 290px !important;
     margin: 20px;
     padding: 9px;
 }
@@ -156,7 +156,7 @@ nav {
 .i{
     border: 2px solid black;
     height: 460px;
-    width: 325px;
+    width: 290px !important;
     margin: 20px;
     padding: 9px;
 }
@@ -171,7 +171,7 @@ nav {
 .j{
     border: 2px solid black;
     height: 460px;
-    width: 325px;
+    width: 290px !important;
     margin: 20px;
     padding: 9px;
 }
@@ -449,7 +449,7 @@ nav {
     }
     .ak{
         background-color: black;
-        width: 100%px;
+        width: 340px;
         height: 500px;
         border-radius: 50px 50px 10px 10px;
         color: white;
